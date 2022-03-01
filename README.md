@@ -34,30 +34,45 @@
 
 # About
 
-**In short: Inventory and cash flow management software for your small business.**
+**In short: Second Brain dashboard is an abstraction of my dashboard notion, but, more functional and effective**
 
 
 * **What is the project?**
 
-This software was made for the initial management of a skewer company, however it can be used by other types of companies.
+> Second Brain is a Active Productve Easy Learn Tool or **A.P.E.L.T**
  
 <br/>
  
 * **Why this project is useful?**
 
-This project was made thinking about solving a real pain of business financial management in my father's family business and as I have knowledge in programming, financial and administrative management I decided to automate things in the company to reduce my time and increase the company's productivity thus reducing the expense with employees and, at the same time, being able to have a useful and reliable financial analysis for the company without additional costs with software paid in the market.
+> Think about your routine, you most of the time have so little time to manage some aspects of your day like personal finances, studies, remembering registered passwords in addition to the projects you have in mind. With Second Brain Dashboard everything becomes more manageable and easily accessible
 
 <br/>
 <br/>
 
 # Features 
 
-- [ ] Customer registration
-- [ ] Order registration
-- [ ] Inventory management
-- [ ] Cash flow
-- [ ] Monthly and weekly sales margin
-- [ ] Products that sell the most
+- [ ] To-do Lists
+    - [ ] Matrix Eisenhower priority
+    - [ ] GTD method organization  
+    - [ ] Planner for "Today, 7 Days and Monthly"
+    - [ ] Hábit Tracker 
+- [ ] Study planer
+    - [ ] FILTER
+    - [ ] FLOW
+    - [ ] ACQUISITION
+    - [ ] RECORD
+    - [ ] RETENTION
+- [ ] Finances management  
+    - [ ] Cash flow
+    - [ ] Budget control
+    - [ ] Assets and Liabilities
+    - [ ] Investment Planning
+    - [ ] Debts
+- [ ] Vault for passwords
+- [ ] Useful Links
+    - Just a repository of links for easy access there are other tools
+- [ ] Projects registrations
 
 <br/>
 <br/>
