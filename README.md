@@ -69,6 +69,7 @@
     - [ ] Assets and Liabilities
     - [ ] Investment Planning
     - [ ] Debts
+    - [ ] Worked Hours
 - [ ] Vault for passwords
 - [ ] Useful Links
     - Just a repository of links for easy access there are other tools
